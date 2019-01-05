@@ -49,7 +49,7 @@ int DirY[8] = {-1, -1, 0, 1, 1, 1, 0, -1};
 int LastX, LastY;
 //int Auto_Check_Dead;
 
-const int search_deep = 9;
+const int search_deep = 8;
 
 int alpha_beta_option = TRUE;
 int resultX, resultY;
